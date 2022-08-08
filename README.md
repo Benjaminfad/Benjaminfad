@@ -14,3 +14,7 @@ perpetually working on improving my skills daily.
 
 
 
+• I'm based in Ibadan , Nigeria 
+• you can reach me via email at 
+Fadipemoyinoluwa2016@gmail.com
+• I'm open to collaborate on JavaScript,CSS/bootstrap Frontend website design projects 
