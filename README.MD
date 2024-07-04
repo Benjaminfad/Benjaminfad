@@ -2,7 +2,7 @@
 Hello there ✊🏾
 My name is Benjamin Fadipe 
 
-I'm a Frontend Engineer and Server Operator with a profound passion for the intricate nuances of the web. I possess a positive, enthusiastic, and proficient demeanor, complemented by a diverse skill set that spans across Web and App Development, DevOps/Cloud Engineering, and Server Operations. My journey in these domains has not only honed my abilities but also fueled my relentless pursuit of improvement.
+I'm a Frontend Engineer and Server Operator with a profound passion for the intricate nuances of the web. I possess a positive, enthusiastic, and proficient demeanor, complemented by a diverse skill set that spans across Web and App Development. My journey in these domains has not only honed my abilities but also fueled my relentless pursuit of improvement.
 
 My experience encompasses both independent work and collaborative efforts within a team. I eagerly seek opportunities to contribute my expertise as a part of your esteemed organization's development team.
 
